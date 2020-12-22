@@ -1,0 +1,43 @@
+.Footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+
+.footerSection {
+    background: #1e1e1e;
+    padding: 40px 0;
+}
+
+.footerSection .footerLink {
+    margin: 0;
+    padding: 0;
+}
+
+.footerSection .footerLink ul {
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    list-style: none;
+}
+
+.footerSection .footerLink ul li a {
+    padding: 0;
+    font-size: 15px;
+    color: #aebba1;
+    line-height: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.footerSection p.copyRight {
+    padding: 0;
+    font-size: 14px;
+    color: #aebba1;
+    line-height: 20px;
+    margin: 15px 0;
+    margin-left: 10px;
+}

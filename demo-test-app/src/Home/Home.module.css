@@ -1,0 +1,19 @@
+.Home {
+    height: 200px;
+    width: 200px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 10px;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+
+.h3 {
+    color: black;
+    font-weight: bold;
+    margin-left: 18%;
+}
+
+.Container {
+    margin: 15% 0 15% 0;
+}
